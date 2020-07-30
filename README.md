@@ -2,7 +2,7 @@
 This is an example of a simple implementation of the paper Towards an artwork information embedding framework for retrieval on multi-source ukiyo-e records 
 
 
-![](image/tokenization.jpeg)
+![](image.png)
 
 Due to copyright issues, retrieval results only displays links to art work information.
 
