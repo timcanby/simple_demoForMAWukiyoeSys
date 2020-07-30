@@ -34,7 +34,9 @@ python3 MAWukiyoe.py --keyword 日本橋夜景
 References
 ----------
 https://github.com/hanxiao/bert-as-service
+
 https://github.com/facebookresearch/pysparnn
+
 https://umap-learn.readthedocs.io/en/latest/
 
 Authors
